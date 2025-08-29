@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Ruchi
 
-<!--
-**RuchiHub2024/RuchiHub2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior Web Developer with **8+ years of experience** in building scalable applications  
+🌱 Currently transitioning into a **Technical Lead Developer** role  
+🚀 Skilled in **Angular, JavaScript (ES6+), RxJS, and Design Patterns**  
+🤝 Experienced in **mentoring teams, technical architecture, and automation frameworks**  
 
-Here are some ideas to get you started:
+📌 Skills & Tools
+**Frontend:** Angular, RxJS, TypeScript, JavaScript (ES6+), HTML, CSS  
+**Backend (Basics):** Node.js, Express, Python  
+**Testing & QA (Earlier Experience):** Selenium, Pytest  
+**DevOps & Tools:** Git, Jenkins, GitHub Actions, Docker  
+**Other Expertise:** Design Patterns, Clean Architecture, Agile Practices, Team Mentorship  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to Reach Me
+✉️ Email: ruchimuldudwar05@gmail.com
